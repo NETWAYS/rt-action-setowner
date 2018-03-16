@@ -1,5 +1,6 @@
 package RT::Action::SetOwner;
 
+use 5.010_001;
 use strict;
 use warnings;
 use base qw(RT::Action);
